@@ -2,7 +2,7 @@
 
 [原始網址](http://laravel.tw/docs/5.0)
 
-最近 GitBook 的 Git 或是與 GitHub 的倉儲同步都非常不穩定...
+最近 GitBook 的 Git 或是與 GitHub 的倉儲同步都非常不穩定。
 
 ## 翻譯須知
 
