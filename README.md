@@ -1,10 +1,10 @@
-# Laravel 繁體中文文件
+## Laravel 繁體中文文件
 
 [原始網址](http://laravel.tw/docs/5.0)
 
 最近 GitBook 的 Git 或是與 GitHub 的倉儲同步都非常不穩定。
 
-## 翻譯須知
+#### 翻譯須知
 
 翻譯前請先詳細閱讀[中文文案排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines)。
 
